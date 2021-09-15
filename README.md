@@ -5,7 +5,7 @@ Trainging models using GAN, and U-net for generator, plain CNN for dector
 # Training
 python train_wGan.py --batchsize 8 --epoch 100
 
-#Evaluating
+# Evaluating
 python eval.py 
 
 
